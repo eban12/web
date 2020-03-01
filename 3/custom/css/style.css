@@ -1,0 +1,79 @@
+body.sign-in-body {
+    background-color: #e6f2ff;
+}
+
+.container.sign-in-container {
+    margin-top: 8%;
+}
+
+.card.sign-in-card {
+    padding: 40px 0px 20px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+img.sign-in-img {
+    padding: 0rem 2rem 2rem;
+    margin: auto;
+    display: block;
+    /* width: 70%; */
+}
+
+form.sign-in-form {
+    max-width: 350px;
+    margin: auto;
+}
+
+div.sign-in-card-block {
+    padding: 0rem 1.2rem;
+}
+
+button.sign-in-btn {
+    color: #ffffff;
+    background-color: #d64829;
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+
+a.create-account {
+    font-size: 1.2rem;
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
